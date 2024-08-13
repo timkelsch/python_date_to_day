@@ -7,4 +7,4 @@ Includes unit tests and logging to local file.
 
 ## How to use
 
-python3 date_to_day.py
+python3 date_to_day.py 
